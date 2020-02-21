@@ -1,18 +1,18 @@
 body {
-  background: url("...img/top-writing-tools.jpg");
+  background: url("../img/top-writing-tools.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   font-size: 15px;
 }
 .links {
-  width: 40%;
+  width: 50%;
   float: inline-end;
-  background-color: inherit;
+  background-color: lavender;
 }
 .me h1 {
   border: 1px;
   margin: auto;
-  background-color: inherit;
+  background-color: lavender;
   padding: 20px;
   text-align: center;
   color: purple;
@@ -23,7 +23,7 @@ h2 {
 }
 img {
   width: 30%;
-  height: 60%;
-  float: left;
+  height: 30%;
+  float: right;
   margin: 30px;
 }
