@@ -1,5 +1,7 @@
 body {
-  background: url(".../img/top-writing-tools.jpg")
+  background: url(".../img/top-writing-tools.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .links {
   width: 40%;
