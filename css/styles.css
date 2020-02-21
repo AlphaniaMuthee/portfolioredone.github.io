@@ -2,6 +2,7 @@ body {
   background: url("...img/top-writing-tools.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  font-size: 15px;
 }
 .links {
   width: 40%;
@@ -11,7 +12,7 @@ body {
 .me h1 {
   border: 1px;
   margin: auto;
-  background-color: plum;
+  background-color: inherit;
   padding: 20px;
   text-align: center;
   color: purple;
