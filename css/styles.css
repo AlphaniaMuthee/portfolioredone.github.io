@@ -14,3 +14,9 @@ body {
   text-align: center;
   color: plum;
 }
+img {
+  width: 30%;
+  height: 60%;
+  float: left;
+  margin: 30px;
+}
