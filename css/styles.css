@@ -1,5 +1,5 @@
 body {
-  background: url(".../img/top-writing-tools.jpg");
+  background: url("...img/top-writing-tools.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -11,10 +11,14 @@ body {
 .me h1 {
   border: 1px;
   margin: auto;
-  background-color: purple;
+  background-color: plum;
   padding: 20px;
   text-align: center;
-  color: plum;
+  color: purple;
+}
+h2 {
+  font-size: 27px;
+  color: Purple;
 }
 img {
   width: 30%;
