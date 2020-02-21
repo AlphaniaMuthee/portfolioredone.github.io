@@ -1,3 +1,8 @@
 body {
   background: url(".../img/top-writing-tools.jpg")
 }
+.links {
+  width: 40%;
+  float: inline-end;
+  background-color: plum;
+}
